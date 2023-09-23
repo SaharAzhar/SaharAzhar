@@ -3,10 +3,10 @@
 
 I am Sahar Azhar, 
 
-- 🔭 I’m currently Flutter and its tools
+- 🔭 I’m currently learning Flutter and its tools
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with career growth.
-- 💬 Ask me about Flutter, Dart and Firebase.
+- 💬 Ask me about Flutter, Dart, API integration and Firebase.
 - 📫 How to reach me: Gmail: saharsheikh229@gmail.com .
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I Don't Sleep xD.
