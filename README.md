@@ -6,7 +6,7 @@ I am Sahar Azhar,
 - 🔭 I’m currently learning Flutter and its tools
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with career growth.
-- 💬 Ask me about Flutter, Dart, API integration and Firebase.
+- 💬 Ask me about Flutter, Dart, API integration bloc, cubit and Firebase.
 - 📫 How to reach me: Gmail: saharsheikh229@gmail.com .
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I Don't Sleep xD.
@@ -39,7 +39,7 @@ Languages and Tools :
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
